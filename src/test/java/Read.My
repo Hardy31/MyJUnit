@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=mqCk3U1kR7M&list=PL7Bt6mWpiizY6VuHtBuFF619su5aFtJDD
+
+Обязательно публичные тесты!
+
+
+Обравнимание  что в Мэйне нет пакета Лессон2 АссертНотНул!!
+Но папка тесты Лессон2 АссертНотНул ЕСТЬ!!!
+
+
+
+Lesson3_Experiment3;
+Обрати внимание,
+что User user = new User(29,"Bdfy", 1500);
+ВАЖНО!
+инициализируется перед каждым методом теса!!!!!!
+
+
+
+Видио JUnit2
+https://www.youtube.com/watch?v=bY8q6RDqlBg&list=PL7Bt6mWpiizY6VuHtBuFF619su5aFtJDD&index=2
+________________________________
+Часть 1 - @ Before и @After
+
+Часть 2 начинается с 10 минуты - @ BeforeClass и @AfterClass
+Отличие в том что методы статические  и не обновляются после каждого теста! Так как они принадлежат классу!
